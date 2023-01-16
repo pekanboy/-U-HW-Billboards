@@ -1,0 +1,9 @@
+.container {
+    width: 100%;
+    background-color: antiquewhite;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    height: 40px;
+    font-size: 16px;
+}
