@@ -9,8 +9,10 @@
 
 
 ### Что сделать перед запуском?
-1) nvm use
-2) npm i
+
+1) Скачать Node LTS и nvm(<https://github.com/nvm-sh/nvm>)
+2) nvm use
+3) npm i
 
 А потом запускаем сервер и клиент:
 * Запуск сервера - npm run server-start
